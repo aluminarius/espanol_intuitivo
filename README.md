@@ -21,3 +21,11 @@ Este proyecto es de código abierto y está disponible bajo la licencia MIT. Tod
 *Contacto*
 
 https://github.com/aluminarius
+
+*Autores*
+
+Alex y Lumin
+
+*Licencia*
+
+MIT
