@@ -6,17 +6,21 @@ El Español Intuitivo es un sistema de lenguaje diseñado para ser simple y fác
 
 *Regla 1: Los verbos no se modifican*
 
-Los verbos en Español Intuitivo no se conjugan ni se modifican según la persona, el tiempo o el modo.
+Los verbos se utilizan siempre en su forma radical. (Por ejemplo, vivir, estudiar, ser, ir, tener, estar, etc.)
 
-*Regla 2: Posición de los adverbios temporales*
+*Regla 2: Adverbios como complementos*
 
-Los adverbios temporales deben colocarse después del verbo para evitar ambigüedades.
-
-Ejemplo: "Ella estudiar ahora para el examen de mañana"
+Se permite el uso de adverbios para complementar los verbos radicales y mejorar la claridad de las oraciones.
 
 *Regla 3: Estructura de las oraciones*
 
-- Declarativas: Sujeto-Verbo-Objeto (SVO) + .
-- Interrogativas: Verbo-Sujeto-Objeto (VSO) + ?
-- Exclamativas: Objeto-Verbo-Sujeto (OVS) + !
-- 
+En el Español Intuitivo, no hay una estructura de oración rígida, ya que se busca priorizar la claridad y la comprensión sobre la complejidad gramatical. Sin embargo, se sugiere utilizar una estructura clara y coherente para facilitar la comprensión. Algunas opciones pueden ser:
+
+- Sujeto-Verbo-Objeto (SVO)
+Ella estudiar ahora para el examen de mañana.
+
+- Verbo-Sujeto-Objeto (VSO)
+Estudiar ahora ella para el examen de mañana?
+
+- Objeto-Verbo-Sujeto (OVS)
+Para el examen de mañana estudiar ahora ella!
