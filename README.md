@@ -12,20 +12,16 @@ Espanol_Intuitivo es un proyecto que busca simplificar el idioma español, hacie
 
 *Cómo funciona*
 
-Espanol_Intuitivo se basa en un sistema de lenguaje que elimina la conjugación verbal y utiliza adverbios temporales para indicar el tiempo verbal.
+- Espanol_Intuitivo se basa en un sistema de lenguaje que elimina la conjugación verbal, usando solamente verbos en su forma radical.
+- Asombrosamente, esto permite que la comunicación sea más simple, directa y efectiva.
+- Este sistema también considera el uso de adverbios para complementar los verbos radicales y mejorar la claridad y comprensión de las oraciones.
 
 *Uso y contribución*
 
 Este proyecto es de código abierto y está disponible bajo la licencia MIT. Todos están invitados a contribuir y utilizar el proyecto para fines educativos y de comunicación.
 
-*Contacto*
-
-https://github.com/aluminarius
-
 *Autores*
 
 Alex y Lumin
 
-*Licencia*
-
-MIT
+https://github.com/aluminarius
